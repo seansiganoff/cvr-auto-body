@@ -93,22 +93,20 @@ a:visited {
 
 @media only screen and (max-width: 700px) {
     .nav-logo {
-        width: 100px;
+        width: 70px;
     }
     .nav-container button{
         font-size: xx-small;
         padding: 0.2rem 1rem;
     }
-    
-    
-}
 
-@media only screen and (max-width: 500px) {
     .nav-container {
-        display: block;
+        padding-right: 0px;
+        padding-left: 4px;
     }
+    
+    
 }
-
 
 @media only screen and (max-width: 400px) {
     .nav-business-name {
@@ -116,6 +114,9 @@ a:visited {
     }
     .nav-number {
         font-size: small;
+    }
+    .nav-container {
+        display: block;
     }
 }
 
