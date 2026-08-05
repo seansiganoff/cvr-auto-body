@@ -32,11 +32,19 @@ If a covered issue arises, we will repair the affected area at no charge. If we 
 <p>
 <br />
 This warranty does not cover damage or defects resulting from:
-Accidents, collisions, or vandalism after the repair.
-Normal wear and tear, rock chips, scratches, or environmental damage.
-Improper care, abuse, or neglect.
-Rust, corrosion, or pre-existing damage outside the repaired area.
-Repairs or modific
+Accidents, collisions, or vandalism after the repair.<br />
+Normal wear and tear, rock chips, scratches, or environmental damage.<br />
+Improper care, abuse, or neglect.<br />
+Rust, corrosion, or pre-existing damage outside the repaired area.<br />
+Repairs or modifications performed by another shop or individual.<br />
+Acts of nature, including hail, flooding, or severe weather.<br />
+<br /><br />
+
+<h2>Our Promise</h2>
+<br /><br />
+As a locally owned mobile business, our reputation means everything. 
+We treat every vehicle as if it were our own and use professional-grade materials and proven repair techniques to provide long-lasting results. 
+If you ever have a concern about your repair, simply contact us and we'll inspect it promptly and work with you to ensure your satisfaction.
         </p>
     </div>
   )
