@@ -38,10 +38,12 @@ Improper care, abuse, or neglect.<br />
 Rust, corrosion, or pre-existing damage outside the repaired area.<br />
 Repairs or modifications performed by another shop or individual.<br />
 Acts of nature, including hail, flooding, or severe weather.<br />
-<br /><br />
-
+<br />
+<br />
+</p>
 <h2>Our Promise</h2>
-<br /><br />
+<p>
+<br />
 As a locally owned mobile business, our reputation means everything. 
 We treat every vehicle as if it were our own and use professional-grade materials and proven repair techniques to provide long-lasting results. 
 If you ever have a concern about your repair, simply contact us and we'll inspect it promptly and work with you to ensure your satisfaction.
